@@ -187,6 +187,8 @@ elif Total_Score1 < Total_Score2:#the code checks if P2's total score is greater
     f.write(str(Total_Score2))
     f.close()
     
+ input("Press any key to exit:")
+    
 
 
 
